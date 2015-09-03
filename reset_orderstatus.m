@@ -1,0 +1,17 @@
+orderstatus.status              = enum.orderstatus.inactive;
+orderstatus.direction           = enum.direction.undefined;
+orderstatus.open_report_tickID  = -1;
+orderstatus.open_traded_tickID  = -1;
+orderstatus.close_report_tickID = -1;
+orderstatus.close_traded_tickID = -1;
+orderstatus.open_report_time    = '';
+orderstatus.open_traded_time    = '';
+orderstatus.close_report_time   = '';
+orderstatus.close_traded_time   = '';
+orderstatus.open_report_price   = -1;
+orderstatus.open_traded_price   = -1;
+orderstatus.close_report_price  = -1;
+orderstatus.close_traded_price  = -1;
+orderstatus.open_reason         = '';
+orderstatus.close_reason        = '';
+orderstatus.benefit             = -1;
